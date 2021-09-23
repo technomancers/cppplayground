@@ -1,0 +1,5 @@
+#define TODO_VERSION_MAJOR @todo_VERSION_MAJOR@
+#define TODO_VERSION_MINOR @todo_VERSION_MINOR@
+
+#define TODO_FILE "mytodos.txt"
+#define TODO_FILE_TMP "mytodos.txt.tmp"
